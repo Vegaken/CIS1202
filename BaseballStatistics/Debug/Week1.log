@@ -1,5 +1,0 @@
-﻿  Programming Assignment 1_Kenji Hirai.cpp
-c:\users\sayuk\source\repos\week1\week1\programming assignment 1_kenji hirai.cpp(103): error C2062: type 'double' unexpected
-c:\users\sayuk\source\repos\week1\week1\programming assignment 1_kenji hirai.cpp(111): error C2065: 'tavg': undeclared identifier
-c:\users\sayuk\source\repos\week1\week1\programming assignment 1_kenji hirai.cpp(113): error C2065: 'tavg': undeclared identifier
-c:\users\sayuk\source\repos\week1\week1\programming assignment 1_kenji hirai.cpp(114): error C2065: 'tavg': undeclared identifier
